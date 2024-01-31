@@ -1,0 +1,13 @@
+body{
+    height: 80%;
+    background-color: rgb(74, 78, 77);
+    color: aliceblue;
+}
+
+img{
+    width:80% ;
+    text-align: center;
+}
+p{
+    justify-content: center;
+}
